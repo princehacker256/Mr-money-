@@ -1,0 +1,21 @@
+{
+  "name": "future-ai-bikes",
+  "version": "1.0.0",
+  "description": "Future AI Bikes - Investment & Rental Platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "bikes",
+    "ai",
+    "investment",
+    "rental"
+  ],
+  "author": "Future AI Bikes",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
